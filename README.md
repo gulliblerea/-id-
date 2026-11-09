@@ -26,9 +26,9 @@
 
 取号只是第一步，实际用起来还有下载、验证、报错这些环节，都整理在教程站里：
 
-- **[小火箭共享账号完整教程](https://leo-bot66.github.io/-id-/)** —— 五区账号覆盖、六步下载流程、三条安全边界（只登 App Store 不登 iCloud）
-- **[五类常见报错逐条处理](https://leo-bot66.github.io/-id-/troubleshoot/)** —— 密码错误 / 账号已被锁定 / 要求验证手机号 / 搜索不到应用 / 无法连接 App Store，按报错原文给对应动作
-- **[各区域 Apple ID 用途对比](https://leo-bot66.github.io/-id-/us-apple-id/)** —— 选哪个区只看目标应用在哪个区上架，不是哪个区更高级
+- **[小火箭共享账号完整教程](https://gulliblerea.github.io/-id-/)** —— 五区账号覆盖、六步下载流程、三条安全边界（只登 App Store 不登 iCloud）
+- **[五类常见报错逐条处理](https://gulliblerea.github.io/-id-/troubleshoot/)** —— 密码错误 / 账号已被锁定 / 要求验证手机号 / 搜索不到应用 / 无法连接 App Store，按报错原文给对应动作
+- **[各区域 Apple ID 用途对比](https://gulliblerea.github.io/-id-/us-apple-id/)** —— 选哪个区只看目标应用在哪个区上架，不是哪个区更高级
 
 ---
 
